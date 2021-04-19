@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      url: mongodb://localhost:27017/demo
+  application:
+    name: mongodb
+
+server:
+  port: 8888
